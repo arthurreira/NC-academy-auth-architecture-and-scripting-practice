@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+    <User id="1">
+        <Name>Anna Müller</Name>
+        <Address>Friedrichstrasse 22, Berlin</Address>
+        <Country>Germany</Country>
+    </User>
+
+    <User id="2">
+        <Name>John Carter</Name>
+        <Address>742 Evergreen Terrace, Springfield</Address>
+        <Country>United States</Country>
+    </User>
+
+    <User id="3">
+        <Name>Yuki Tanaka</Name>
+        <Address>3-2-1 Shibuya, Tokyo</Address>
+        <Country>Japan</Country>
+    </User>
+
+    <User id="4">
+        <Name>Lucas Andrade</Name>
+        <Address>Avenida Paulista 1578, São Paulo</Address>
+        <Country>Brazil</Country>
+    </User>
+
+    <User id="5">
+        <Name>Sophia Rossi</Name>
+        <Address>Via Garibaldi 45, Milano</Address>
+        <Country>Italy</Country>
+    </User>
+
+    <User id="6">
+        <Name>Ahmed Nasser</Name>
+        <Address>Al Salam Street 102, Cairo</Address>
+        <Country>Egypt</Country>
+    </User>
+
+    <User id="7">
+        <Name>Emma Virtanen</Name>
+        <Address>Keskuskatu 8, Helsinki</Address>
+        <Country>Finland</Country>
+    </User>
+</Users>

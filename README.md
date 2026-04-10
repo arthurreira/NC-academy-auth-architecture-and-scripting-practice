@@ -1,4 +1,4 @@
-# NordCloud Academy | Auth Architecture and Scripting Practice
+# NC Academy | Auth Architecture and Scripting Practice
 
 > Project Type: Learning project (docs plus scripting exercises)
 
